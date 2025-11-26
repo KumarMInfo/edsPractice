@@ -1,6 +1,6 @@
 mountpoints:
 
-  /: "https:/content.da.live/edsPractice/KumarMInfo/"
+  /: url: "https://content.da.live/edsPractice/KumarMInfo/"
 
   type: markup
  
