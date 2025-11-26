@@ -1,0 +1,12 @@
+{
+  "name": "hello-world",
+  "displayName": "Hello World",
+  "description": "Simple example block for testing",
+  "inputs": [
+    { "name": "title", "type": "text", "label": "Title", "default": "Hello from EDS" },
+    { "name": "body", "type": "text", "label": "Body", "default": "This is a sample block." }
+  ],
+  "render": {
+    "template": "index.html"
+  }
+}
